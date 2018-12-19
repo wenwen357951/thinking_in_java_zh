@@ -1,4 +1,4 @@
-## Thinking in Java (Java 編程思想)
+## Thinking in Java - 繁中
 
 # Summary
 

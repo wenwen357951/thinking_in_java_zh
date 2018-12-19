@@ -1,7 +1,6 @@
 # Thinking in Java - 繁中
 
 ![](https://img.shields.io/badge/Language-Traditional%20Chinese-orange.svg)
-
 ![](https://img.shields.io/badge/Author-Bruce%20Eckel-yellowgreen.svg)
 ![](https://img.shields.io/badge/Translator-yyc%2C%20spirit-lightgrey.svg)
 ![](https://img.shields.io/badge/Revision-Wizardforcel-lightgrey.svg)

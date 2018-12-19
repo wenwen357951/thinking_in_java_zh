@@ -1,6 +1,7 @@
-## Thinking in Java - 繁中
+# Thinking in Java - 繁中
 
-# Summary
+
+![/image/cover.jpg]
 
 * [Java 編程思想](README.md)
 * [寫在前面的話](寫在前面的話.md)

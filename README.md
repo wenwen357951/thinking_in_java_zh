@@ -7,7 +7,10 @@
 ![](https://img.shields.io/badge/Quanke-Wizardforcel-lightgrey.svg)
 ![](https://img.shields.io/badge/Translator-Chen%20Po%20Wei-blue.svg) 
 
-![](/image/cover.jpg)
+
+<center>
+<img src="/image/cover.jpg" width="40%" height="40%" />
+</center>
 
 * [Java 編程思想](README.md)
 * [寫在前面的話](寫在前面的話.md)

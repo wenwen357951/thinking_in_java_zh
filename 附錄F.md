@@ -60,7 +60,7 @@ David Flanagan
 
 出版時間：1997
 
-簡介：針對三種主要的Java ORB（Visbroker，Orbix，Joe），本書分別用大量代碼實例進行了詳盡的闡述。
+簡介：針對三種主要的Java ORB（Visbroker，Orbix，Joe），本書分別用大量程式碼實例進行了詳盡的闡述。
 
 《設計模式》
 
@@ -70,7 +70,7 @@ David Flanagan
 
 出版時間：1995
 
-簡介：這是一本發起了編程領域方案革命的經典書籍。
+簡介：這是一本發起了編程領域方法革命的經典書籍。
 
 《UML Toolkit》
 
@@ -80,7 +80,7 @@ David Flanagan
 
 出版時間：1997
 
-簡介：解釋UML以及如何使用它，並提供Java的實際案例供參考。配套CD-ROM包含了Java代碼以及Rational Rose的一個刪減版本。本書對UML進行了非常出色的描述，並解釋瞭如何用它構建實際的系統。
+簡介：解釋UML以及如何使用它，並提供Java的實際案例供參考。配套CD-ROM包含了Java程式碼以及Rational Rose的一個刪減版本。本書對UML進行了非常出色的描述，並解釋瞭如何用它構建實際的系統。
 
 《Practical Algorithms for Programmers》
 

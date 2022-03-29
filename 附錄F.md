@@ -80,7 +80,7 @@ David Flanagan
 
 出版時間：1997
 
-簡介：解釋UML以及如何使用它，並提供Java的實際案例供參考。配套CD-ROM包含了Java程式碼以及Rational Rose的一個刪減版本。本書對UML進行了非常出色的描述，並解釋瞭如何用它構建實際的系統。
+簡介：解釋UML以及如何使用它，並提供Java的實際案例供參考。配套CD-ROM包含了Java程式碼以及Rational Rose的一個刪減版本。本書對UML進行了非常出色的描述，並解釋瞭如何用它建構實際的系統。
 
 《Practical Algorithms for Programmers》
 

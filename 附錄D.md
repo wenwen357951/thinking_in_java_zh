@@ -153,7 +153,7 @@ System.out.println("heading" + s + "trailer" + t);
 
 +   `static final`（靜態最終）常數有助於編譯器優化程式。
 
-+   實作固定長度的循環。
++   實現固定長度的循環。
 
 +   使用`javac`的優化選項：`-O`。它通過內嵌`static`，`final`以及`private`方法，從而優化編譯過的程式碼。注意類的長度可能會增加（只對JDK 1.1而言——更早的版本也許不能執行字節查證）。新型的“Just-in-time”（JIT）編譯器會動態加速程式碼。
 
